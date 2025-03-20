@@ -6,7 +6,7 @@ This project demonstrates how to perform logistic regression using Python. It in
 
 📂 Files Included
 
-[Logistic_Regression.ipynb]() — The main notebook containing the entire logistic regression workflow.
+[Logistic_Regression.ipynb](https://github.com/jaytamkhane/Logistic-Regression/blob/main/Logistic_Regression.ipynb) — The main notebook containing the entire logistic regression workflow.
 
 🔧 Technologies Used
 
